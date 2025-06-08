@@ -21,8 +21,7 @@ Proyecto donde se lleva a cabo un análisis exploratorio detallado sobre los dat
 Las siguientes gráficas resumen los resultados clave. Puedes visualizarlas directamente en la carpeta /graficaXX.
 Ejemplo de algunas visualizaciones:
 
-- Gráfica 01 – Distribución de edades (pie chart) ![grafica01](graficas/grafica01.png)
-
+- Gráfica 01 – Distribución de edades (pie chart)
 - Gráfica 06 – Aceptación por categoría laboral (stacked bars)
 - Gráfica 09 – Aceptación según duración de llamada (violín & boxplot)
 - Gráfica 13 – Aceptación por año y mes (stacked bars)
