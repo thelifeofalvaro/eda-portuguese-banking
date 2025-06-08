@@ -7,8 +7,9 @@ Proyecto donde se lleva a cabo un análisis exploratorio detallado sobre los dat
 
 ```
 ├── data/
-│   ├── bank-additional.csv
-│   └── customer-details.xlsx
+│   ├── bank-additional.csv                   # Dataset 1
+│   ├── customer-details.xlsx                   # Dataset 2
+│   └── DataProject_ Proyecto EDA con Python.docx                    #Enunciado
 ├── graficas/
 │   └── graficaXX.png (todas las visualizaciones numeradas)
 ├── EDA_portugues-bank.ipynb
